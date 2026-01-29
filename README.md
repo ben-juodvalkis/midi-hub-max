@@ -14,8 +14,7 @@ A Node for Max solution that provides automatic MIDI device discovery, message t
 
 1. Copy the `midi-hub` folder to your Max project or `~/Documents/Max 9/Library/`
 2. Open `midi-hub.maxpat`
-3. Click `script npm install` once to install dependencies
-4. The script auto-starts on patch load
+3. Ready to use! (dependencies are included)
 
 ## Message Format
 
