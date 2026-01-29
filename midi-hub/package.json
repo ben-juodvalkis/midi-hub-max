@@ -1,0 +1,9 @@
+{
+  "name": "midi-hub",
+  "version": "1.0.0",
+  "description": "MIDI Hub for Max - routes and tags all MIDI messages by device name",
+  "main": "midi-hub.js",
+  "dependencies": {
+    "easymidi": "^3.0.0"
+  }
+}
